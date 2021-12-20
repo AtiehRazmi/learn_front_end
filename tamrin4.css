@@ -1,0 +1,95 @@
+body{
+    font-family: Comic sans ms;
+    
+}
+#img1{
+    width: 570px;
+    height: 650px;
+    padding: 10px;
+    margin-left: 800px;
+    position: absolute;
+    z-index: -1;
+}
+#img2{
+    width:550px;
+    height: 550px;
+    margin-top: 60px;
+    margin-left: 725px;
+    position: absolute;
+}
+.navar{
+    position: absolute;
+    z-index: 1;
+    margin-top: 20px;
+    margin-left: 300px;
+}
+#n1{
+    font-size: 20px;
+    
+}
+.navar1{
+    margin-left: 150px;
+    margin-top: -50px;
+    font-size: 17px;
+}
+#n2{
+    margin-right: 25px;
+    margin-left: 10px;
+    color: #d31b27;
+}
+#n3{
+    margin-right: 25px; 
+}
+#n4{
+    margin-right: 25px;
+}
+#n5{
+    margin-right: 25px;
+}
+#n6{
+    margin-right: 25px;
+}
+#oo{
+    color: #d31b27;
+}
+.mtn{
+    position: absolute;
+    z-index: 1;
+    margin-top: 130px;
+    margin-left: 300px;
+    font-size: 25px;
+    border-left: 3px solid #d31b27;
+    padding-left: 20px;
+}
+.buttoon{
+    position: absolute;
+    z-index: 1;
+    margin-top: 450px;
+    margin-left: 300px;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 20px;
+
+}
+.button1{
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    color:honeydew;
+    background-color:#d31b27;
+    font-size: 17px;
+    
+}
+.button2{
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    color:grey;
+    background-color:honeydew;
+    font-size: 17px;
+    
+}

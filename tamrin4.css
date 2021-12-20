@@ -76,20 +76,37 @@ body{
 
 }
 .button1{
-    width: 150px;
-    height: 50px;
+    width: 125px;
+    height: 45px;
     border-radius: 30px;
     color:honeydew;
     background-color:#d31b27;
     font-size: 17px;
+    border: none;
     
 }
 .button2{
-    width: 150px;
-    height: 50px;
+    width: 125px;
+    height: 45px;
     border-radius: 30px;
     color:grey;
-    background-color:honeydew;
+    background-color:  #f2f2f2 ;
     font-size: 17px;
+    border: none;
+    
+}
+#search{
+    color: #f2f2f2;
+    font-size: 18px;
+    margin-left: 1100px;
+   margin-top: 60px;
+}
+#shoping_cart{
+    color: white;
+    font-size: 37px;
+    margin-left: 100px;
+    margin-top: 50px;
+    z-index: 1;
+    position: absolute;
     
 }

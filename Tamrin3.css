@@ -1,0 +1,14 @@
+body{
+    background-color:#7c3bdc
+}
+div.p{
+    font: size 100px;
+}
+#special::first-letter{
+    font-size: 100px;
+    color:green
+
+}
+a:visited{
+    color:gray
+}
